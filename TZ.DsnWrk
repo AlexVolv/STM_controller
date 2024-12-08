@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=STM_controller\STM_controller.PrjPcb
+[Project2]
+ProjectPath=Library\Library.LibPkg
