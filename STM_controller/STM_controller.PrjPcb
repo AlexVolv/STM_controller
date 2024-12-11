@@ -66,6 +66,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NXDAYRQH
 
 [Document2]
+DocumentPath=Bluetooth&Gyroscope.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HIAHSZFZ
+
+[Document3]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,14 +99,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAMOGNOM
 
-[Document3]
-DocumentPath=Bluetooth.SchDoc
+[Document4]
+DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -97,9 +114,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HIAHSZFZ
+DocumentUniqueId=DEUQENVX
 
-[Document4]
+[Document5]
 DocumentPath=Motor_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBJXWRSP
 
-[Document5]
+[Document6]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
