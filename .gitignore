@@ -11,6 +11,7 @@ Previews
 *.log
 *.htm
 *.$$$
+*.PrjPcb
 
 #useless dirs
 Project\ Outputs
